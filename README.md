@@ -88,4 +88,4 @@ A newly initiating Django project with custom Django management command `wait_fo
 
 ## Recommendations
 
-- Test Driven Development. Create `tests` folders in each subredictory with every file starts file name with `test_` in order to manage all test functions.
+- Test Driven Development. Create `tests` folders in each subredictory with every file starting file name with `test_` in order to manage all test functions.
