@@ -1,6 +1,5 @@
 # docker-drf-quick-starter
-This quick starter uses Django , Django Rest Framework and  Postgresql to build a REST API with OPEN API docs, Combing with Docker , Docker Compose  and Github Actions .
-
+This starter employs Django, Django Rest Framework, and PostgreSQL to construct a REST API with OpenAPI documentation, integrated with Docker, Docker Compose, and GitHub Actions.
 ## Features
 
 - Django web application framework
